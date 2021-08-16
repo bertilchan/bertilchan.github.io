@@ -1,42 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>陈先森的个人博客</title>
   
-  
+  <subtitle>on the road</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-15T15:02:40.128Z</updated>
+  <updated>1985-10-26T08:15:00.000Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Bertil Chan</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>article title</title>
-    <link href="http://example.com/2021/08/15/article-title/"/>
-    <id>http://example.com/2021/08/15/article-title/</id>
-    <published>2021-08-15T15:01:30.000Z</published>
-    <updated>2021-08-15T15:02:40.128Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;c我的第一篇文章&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -56,6 +34,34 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>typora-vue-theme主题介绍</title>
+    <link href="http://example.com/2018/09/07/article-title/"/>
+    <id>http://example.com/2018/09/07/article-title/</id>
+    <published>2018-09-07T01:25:00.000Z</published>
+    <updated>2021-08-15T18:51:29.955Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;c我的第一篇文章&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
     
   </entry>
   
